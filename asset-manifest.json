@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GIT-learning/LEARNREACT/textutils/static/css/main.156c400c.css",
+    "main.js": "/GIT-learning/LEARNREACT/textutils/static/js/main.877425d6.js",
+    "static/js/787.719ec76d.chunk.js": "/GIT-learning/LEARNREACT/textutils/static/js/787.719ec76d.chunk.js",
+    "index.html": "/GIT-learning/LEARNREACT/textutils/index.html",
+    "main.156c400c.css.map": "/GIT-learning/LEARNREACT/textutils/static/css/main.156c400c.css.map",
+    "main.877425d6.js.map": "/GIT-learning/LEARNREACT/textutils/static/js/main.877425d6.js.map",
+    "787.719ec76d.chunk.js.map": "/GIT-learning/LEARNREACT/textutils/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.156c400c.css",
+    "static/js/main.877425d6.js"
+  ]
+}
