@@ -1,0 +1,44 @@
+extends base.pug
+
+block scripts 
+  script(src='static/index.js')
+block style 
+     style
+      include ../static/style.css
+block content 
+     
+      section#introsection 
+        div WELCOME TO PATIL'S DANCE ACADEMY 
+        div DANCE LIKE NO ONE IS WATCHING 
+      section#missionsection 
+        div OUR MISSION    
+        div.card
+                h3  PERFECTION
+                div.card-box
+                   div.card-img
+                       img(src='/static/IMG/dancelogo.png')
+                   div.card-content
+                   p | THIS IS CONTENT        
+                      
+        div.card
+                h3  DANCE THE WAY YOU LIKE
+                div.card-box
+                   div.card-img
+                       img(src='/static/IMG/dancelogo.png')
+                   div.card-content
+                     p | THIS IS CONTENT      
+        div.card
+                h3  EXPERT GUIDENCE                  
+                div.card-box
+                   div.card-img
+                       img(src='/static/IMG/dancelogo.png')
+                   div.card-content
+                      p | THIS IS CONTENT        
+      section#sponsorsection   
+        h3|our sponsors 
+        div#sponsors
+           img(src="/static/IMG/microsoft logo.png", alt="image", class="spimage") 
+           img(src="/static/IMG/hp logo.png", alt="image", class="spimage") 
+           img(src="/static/IMG/skype logo.png", alt="image", class="spimage")
+           img(src="/static/IMG/tata logo.png", alt="image", class="spimage") 
+        

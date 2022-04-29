@@ -1,0 +1,260 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.sidebar {
+    background-color: rgb(92 80 80 / 76%);
+    width: 15vw;
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+}
+
+.sidebar nav{
+        padding-top: 50px;
+}
+
+.sidebar nav li {
+    padding-left: 62px;
+    padding-bottom: 36px;
+    margin: 8px;
+    list-style: none;
+    font-size: 20px;
+}
+.sidebar nav li a {
+    text-decoration: none;
+    color: white;
+}
+
+.main {
+    background-color: #22b26642;
+    width: 90vw;
+    position: relative;
+    height: 114vh;
+    width: 144vh;
+}
+.container{
+    display: flex;
+}
+.infocontainer {
+    position: relative;
+    top: 0px;
+    background-color: blue;
+    height: 114vh;
+    width: 164vh;
+    margin: 58px auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.devinfo {
+    flex-wrap: wrap;
+    padding: 40px;
+    display: flex;
+    height: 683px;
+    width: 381px;
+    align-items: left;
+    flex-direction: column;
+}
+.hello{
+   font-size: 85px;
+}
+.am{font-size: 70px;}
+.name{
+    font-size: 60px;
+}
+.about{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    
+}
+.moreme{
+    margin: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+.buttons button{
+    display: inline;
+    justify-content: center;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 36px;
+    cursor: pointer;
+    color: white;
+    margin-left: 6px;
+    background-color: rgb(27, 25, 25);
+    border: 3px solid rgb(221, 183, 183);
+}
+.buttons{
+    display: flex;
+
+}
+.buttons button:hover{
+    background-color: rgb(59, 58, 58);
+}
+.skillset {
+    display: flex;
+    height: 279px;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.onepic img {
+    position: relative;
+    margin: 77px;
+    height: 58vh;
+    top: -132px;
+    /* align-items: center; */
+}
+.contactform form {
+    display: flex;
+    flex-direction: column;
+    width: 532px;
+    margin-left: 203px;
+    border: 10px solid white;
+    background-color: #ebeb6fb5;
+}
+
+.contactform div {
+    padding: 1px 0px;
+    margin: 13px;
+}
+
+#emailHelp{
+    
+    display: flex;
+    flex-direction: column;
+    font-size: 10px;
+}
+
+.contactform form div input {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+
+    border: 2px solid blue;
+    border-radius: 6px;
+    font-size: 15px;
+}
+.mb-3 input{
+    width: 150px;
+} 
+.contactform h1{
+    text-align: center;
+    margin: 20px;
+}
+.contactform form {
+    display: flex;
+    flex-direction: column;
+    width: 550px;
+    margin-left: 203px;margin-right: 203px;
+    border: 10px solid white;
+  
+    background-color: #ebeb6fb5;
+}
+div#\ form-check {
+    display: flex;
+    flex-direction: row;
+    width: 254px;
+}
+
+
+.contactform button{
+    display: inline;
+    justify-content: center;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 36px;
+    cursor: pointer;
+    color: white;
+    margin-left: 6px;
+    background-color: rgb(27, 25, 25);
+    border: 3px solid rgb(221, 183, 183);
+
+}
+.contactform button:hover{
+    background-color: rgb(59, 58, 58);
+}
+#isclient{
+    margin: 14px;
+    width: 50%;
+}
+
+.blogitem {
+    font-family: 'Roboto', sans-serif;
+}
+.blogitem h2{
+    margin: 20px;
+}
+
+.blogcontainer{
+    margin-left: 20px;
+    padding: 20px;
+}
+
+.devinfo h1{
+    margin-left: 25px;
+}
+.devinfo p{
+    margin-left: 25px;
+}
+.devinfo h2{
+    margin: 25px;
+    margin-bottom: 13px;
+}
+.devinfo h3{
+    margin-left: 25px;
+}
+.skill{
+    background-color: red;
+    margin: 25px;
+    margin-top: 5px;
+    width: 200px;
+    height: 4px;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+
+@media (max-width:1240px) {
+   .sidebar{
+       transform: translate(-206px,0px);
+       position: absolute;
+   }
+}
+
+
+@media (max-width:900px) {
+    .sidebar{
+        transform: translate(-206px,0px);
+        position: absolute;
+    }
+    .devinfo {
+        /* flex-wrap: wrap; */
+        padding: 40px;
+        display: flex;
+        height: 549px; ;
+        width: 416px;
+        align-items: left;
+        flex-direction: column;
+    }
+    .infocontainer {
+        position: relative;
+        top: 0px;
+        background-color: blue;
+        height: 114vh;
+        width: 117vh;
+        margin: 58px auto;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .onepic img {
+        position: relative;
+        margin: 77px;
+        height: 58vh;
+        top: -37px;
+        /* align-items: center; */
+    }
+   
+ }

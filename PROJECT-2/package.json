@@ -1,0 +1,25 @@
+{
+  "name": "updatingproject2",
+  "version": "1.0.0",
+  "description": "trying to update project 2 food website",
+  "main": "app.js",
+  "scripts": {
+<<<<<<< HEAD
+    "test": "echo \"Error: no test specified\" && exit 1"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev":   "nodemon app.js"
+>>>>>>> 35861558bb864eca845b459385822cd4f5e58e87
+  },
+  "author": "saurabh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "consolidate": "^0.16.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.10",
+    "pug": "^3.0.2",
+    "swig": "^1.4.2"
+  }
+}

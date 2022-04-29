@@ -1,0 +1,239 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+
+}
+html{
+    scroll-behavior: smooth;
+}
+
+/* css varables */
+:root{
+    --navbar-height:59px;
+
+}
+
+/* navigation bar */
+
+
+#navbar{
+    display: flex;
+    align-items: center;
+    position: sticky;
+top: 0px;
+width: 100%;
+  
+    
+    
+}
+#navbar::before{
+    background-color: black;
+    position: absolute;
+    top: 10px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    content: "";
+    opacity: 0.2;
+
+}
+/* navigation bar: logo and images */
+#logo{
+    margin: 10px 34px
+}
+#logo img{
+    margin: 3px 6px;
+    height: 85px;
+    width: 85px;
+}
+/* navigation bar: list styling */
+#navbar ul{
+    display: flex;
+    display: flex;
+    flex-wrap: wrap;
+}
+#navbar ul li{
+    list-style: none;
+    font-size: 2.3rem;
+}
+#navbar ul li a{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    display: block;
+    padding: 3px 22px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+#navbar ul li a:hover{
+color: black;
+  background-color: white;
+ 
+}
+
+/* home section */
+#home{
+    display: flex;
+    flex-direction: column;
+    padding: 3px 0px;
+    height: 292px;
+    align-items: center;
+    justify-content: center;
+   
+}
+#home::before{
+<<<<<<<< HEAD:projects/PROJECT-2/CSS/style.css
+    background:url('C:/Users/om/my/PROJECT-2/home back.jpg' ) no-repeat center center/cover;
+========
+    background:url('../IMG/homeback.jpg' ) no-repeat center center/cover;
+>>>>>>>> 35861558bb864eca845b459385822cd4f5e58e87:projects/PROJECT-2/static/CSS/style.css
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    width: 100%;
+    height: 500px;
+    z-index: -1;
+    content: "";
+    opacity: 0.7;
+    
+}
+#home h1{
+    
+    color:white;
+    text-align: center;
+}
+#home p{
+ 
+    color:rgb(255, 153, 0);
+    text-align: center;
+    font-family: 'Allison', cursive;
+    font-size: 31px;
+}
+
+/* services-container section */
+#services{
+  
+    margin-top: 0px;
+    display: flex;
+    margin-bottom: 80px;
+    
+}
+#services .box{
+    padding: 3px;
+    border: 2px solid blue;
+    margin: 15px;
+    border-radius: 23px;
+    background-color:rgb(253, 246, 246);
+
+}
+#services .box p{
+    font-family: 'Satisfy', cursive;
+    font-size: 1.5rem;
+
+}
+#services .box img{width: 150px;
+height: 160px;
+margin: auto;
+display: block;}
+/* contact-section */
+#contact{
+   width: 100%;
+    height:650px;}
+#contact-box::before{
+    margin-top: 0px;
+    content: "";
+    position: absolute;
+    top: auto;
+    left: 0px;
+    width: 100%;
+    height: 492px;
+    z-index: -1;
+    opacity: 0.7;
+    background: url('../IMG/mobile.png')repeat center center/cover;
+}
+#contact-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 34px;
+    position:absolute;
+    
+   
+}
+#contact-box input,
+#contact-box textarea{
+    font-family: 'Baloo Bhaina 2', cursive;
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 9px;
+    font-size: 1.1rem;
+}
+#contact-box form{
+    width: 30%;
+    height: 40%;
+    font-size: 1.3rem;
+
+}
+footer{background-color: black;
+color: white;}
+/* client-section */
+#client-section{
+    
+    height: 269px;
+}
+#client-section{
+    content: "";
+    position: relative;
+    background: url('../noodles.png' )no-repeat center center/cover;
+    width: 100%;
+    height: 270px;
+    z-index: -1;
+    opacity: 0.89;
+}
+.client-item{
+    display:flex;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+#clients{
+     display: flex;
+     
+     justify-content: center;
+     align-items: center;
+     margin-top: -55px;
+
+    }
+#clients img{
+  
+    height: 124px;
+}
+/* utility classes */
+.h-primary{
+   
+
+    font-size: 40px;
+    padding: 10px;
+    font-family: 'Baloo Bhaina 2', cursive;
+  
+}
+.h-secondary{
+   
+
+    font-size: 2.8rem;
+    padding: 12px;
+    font-family: 'Baloo Bhaina 2', cursive;
+}
+.btn{
+    margin: 17px;
+    padding: 6px 20px;
+    border: 2px solid white;
+    background-color: rgba(241, 215, 176, 0.116);
+    font-size: 1.5rem;
+    border-radius: 10px;
+   border: 2px solid white;
+   cursor: pointer;
+}
+
+.center{text-align: center;
+    }

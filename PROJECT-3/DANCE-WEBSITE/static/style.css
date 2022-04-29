@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dongle&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#navbar{
+    background-color: black;
+    padding: 13px 15px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#logo{
+
+    display: flex;
+    margin: 0 14px;
+    align-items: center;
+
+}
+#logo img{
+    height: 40px;
+   filter: invert(1);
+}
+#navbar ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+#navbar li {
+    list-style: none;
+}
+
+
+#navbar li a{
+    text-decoration: none;
+    padding: 4px 15px ;
+}
+#introsection{
+    color: blanchedalmond;
+    font-size: 39px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    height: 500px;
+    font-family: 'Dongle', sans-serif;
+background: center /cover no-repeat url('/static/IMG/dancebg.jpg');
+}
+#missionsection{
+   
+  margin: auto;
+  display: block;
+  width: 100%;
+}
+#missionsection div{
+    margin: 6px 21px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.card{
+    height: 215px;
+    border: 2px solid black;
+    border-color: blue;
+    border-radius: 25px;
+    width: 30%;
+    margin: 13px 20px;
+    display: inline-block;
+    padding: 10px;
+}
+ .card h3{
+     text-align: center;
+     margin: 12px;
+ }
+ .card-box{
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+
+ }
+ .card-img{
+    height: 80px;
+}
+ .card-img img{
+     height: inherit;
+ }
+#sponsorsection  {
+    align-items: center;
+    height: 275px;
+background-color: rgb(225, 102, 65);
+margin: 15px 0px;
+}
+#sponsorsection h3 {
+    text-align: center;
+}
+#sponsors{
+    align-items: center;
+    justify-content: center;
+    height: 120px;
+    width: 1405px;
+    margin: auto;
+
+}
+.spimage{
+    height: 191px;
+    margin: 33px;
+    margin-left: 96px;
+}
+#footer{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    height: 60px;
+    background-color: black;
+}
