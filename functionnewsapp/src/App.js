@@ -24,7 +24,8 @@ const [progress,setProgress]=useState(0)
         color='#f11946'
         progress={progress}
       />
-          <Routes>
+          <Routes>                  
+            {/* passing state as props */}
             <Route  exact path="/" element={ <>  <News setProgress=  {setProgress} apiKey={apiKey} key ="general" pageSize={4} category="general" named="" /></>}/>
               {/* this pageSize will be transfered as prop; */}
              

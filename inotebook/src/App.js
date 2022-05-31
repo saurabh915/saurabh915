@@ -1,24 +1,40 @@
-import logo from './logo.svg';
 import './App.css';
+import { BrowserRouter as Router, Routes, Route } from"react-router-dom"; 
+import React from "react";
 
+
+import Navbar from './components/Navbar';
+import {Home} from './components/Home';
+import About from './components/About';
+import NoteState from './context/notes/NoteState';
+import Alert from './components/Alert';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>    
+    <NoteState>
+     
+      {/* this will allow all components to access notestate */}
+      
+    <Router>
+        {<Navbar  />}
+        <Alert message="warning"/>
+        <div className="container">
+
+      <Routes>
+<Route exact path = "/" element={ <Home/>}></Route>
+      </Routes>
+      <Routes>
+<Route exact path = "/about" element={ <About/>}></Route>
+      </Routes>
+
+        </div>
+    </Router>
+    
+    <h1>this is my app</h1>
+    
+    </NoteState>
+   
+    </>
   );
 }
 
