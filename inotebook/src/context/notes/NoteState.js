@@ -38,8 +38,8 @@ const getNotes = async () => {
     }
   });
   const json = await response.json();
-
-  console.log(json);
+console.log("fetching all notes");
+console.log(json);
 setNotes(json);
 
 
@@ -75,25 +75,15 @@ setNotes(json);
 
         )
     });
-    // const json = response.json();
+    //adding notes to frontend
+    const note = await response.json();
+    
 
-
-
-
-
-//adding notes to frontend
-    console.log("adding a new note");
-    const note = {
-      "_id": "6285e878ee41aea1d8dfd56bfbd9",
-      "user": "627f5fdb7f1c16705dfdbc951433",
-      "title": title,
-      "description": description,
-      "tag": tag,
-      "date": "1652942968254",
-      "__v": 0
-    };
     setNotes(notes.concat(note))
 
+
+
+  
   }
 
   //Delete a Note
@@ -109,13 +99,13 @@ setNotes(json);
       },
     
     });
-    const json = response.json();
+    const json = await response.json();
 
+    console.log("deleting the note with id" + id);
 console.log(json);
 
 
 
-    console.log("deleting the note with id" + id);
     //the below command will return all the notes exept the notes which have _id == id of note which we have to  delete
     const newNotes = notes.filter((note) => { return note._id !== id });
     setNotes(newNotes);
@@ -127,24 +117,30 @@ console.log(json);
   const editNote = async (id, title, description, tag) => {
     //For API call
     const response = await fetch(`${host}/api/notes/updatenote/${id}`, {
-      method: 'POST',
+      method: 'PATCH',
       headers: {
         "Content-Type": "application/json",
         "auth-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjI3ZjVmZGI3MWMxNjcwNWJjOTUxNDMzIn0sImlhdCI6MTY1Mjg3ODAxM30.GfDO6ZfvX2cf-s2DUirNGQZkEjOOcKdtRwDQKQm-rjM"
       },
-      body: JSON.stringify(title, description, tag)
+      body: JSON.stringify({title, description, tag})
     });
-    const json = response.json();
+    const json = await response.json();
+    
+    //deep copying notes into newNotes
+    let newNotes = JSON.parse(JSON.stringify(notes));
 
-    for (let index = 0; index < notes.length; index++) {
-      const element = notes[index];
+    for (let index = 0; index < newNotes.length; index++) {
+      //for loop is to traverese the notes of each id 
+      const element = newNotes[index];
       if (element._id === id) {
-        element.title = title;
-        element.description = description;
-        element.tag = tag;
+        newNotes[index].title = title;
+        newNotes[index].description = description;
+        newNotes[index].tag = tag;
+        break;
       }
 
     }
+    setNotes(newNotes);
   }
 
 
@@ -169,7 +165,7 @@ console.log(json);
 
 
     //here is how we transferd our props in NoteContext
-    <NoteContext.Provider value={{ notes, addNote, deleteNote,getNotes }}>
+    <NoteContext.Provider value={{ notes, addNote, deleteNote,getNotes,editNote }}>
 
 
       {props.children}

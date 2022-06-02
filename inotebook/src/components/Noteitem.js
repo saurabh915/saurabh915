@@ -15,6 +15,7 @@ const NoteItem = (props) => {
       <div className="card my-3" >
  
   <div className="card-body">
+    {/* for displaying note fetched from server  note.title is used*/}
     <h5 className="card-title">{note.title}</h5>
     <p className="card-text">{note.description}</p>
     <i className="fa-solid fa-trash-can mx-2" onClick={()=>{deleteNote(note._id)}}></i>
