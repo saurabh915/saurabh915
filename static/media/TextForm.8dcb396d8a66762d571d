@@ -1,0 +1,5 @@
+here is most cruicial part of app
+
+like text and setText thest states are used to change the text which are present inside the textarea 
+to use text variable as the text inside the textarea value of text area is take as text  state and whenever we have to change it in uppercase or in lowercase by using settext we can change it is usually changed when handlecopy 
+   

@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/iNotebook/inotebook/static/css/main.73f15822.css",
-    "main.js": "/iNotebook/inotebook/static/js/main.1d60b015.js",
-    "index.html": "/iNotebook/inotebook/index.html",
-    "main.73f15822.css.map": "/iNotebook/inotebook/static/css/main.73f15822.css.map",
-    "main.1d60b015.js.map": "/iNotebook/inotebook/static/js/main.1d60b015.js.map"
+    "main.css": "/saurabh915/static/css/main.156c400c.css",
+    "main.js": "/saurabh915/static/js/main.f5324a9d.js",
+    "static/js/787.719ec76d.chunk.js": "/saurabh915/static/js/787.719ec76d.chunk.js",
+    "index.html": "/saurabh915/index.html",
+    "static/media/TextForm": "/saurabh915/static/media/TextForm.8dcb396d8a66762d571d",
+    "main.156c400c.css.map": "/saurabh915/static/css/main.156c400c.css.map",
+    "main.f5324a9d.js.map": "/saurabh915/static/js/main.f5324a9d.js.map",
+    "787.719ec76d.chunk.js.map": "/saurabh915/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.73f15822.css",
-    "static/js/main.1d60b015.js"
+    "static/css/main.156c400c.css",
+    "static/js/main.f5324a9d.js"
   ]
 }
