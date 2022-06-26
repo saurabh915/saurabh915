@@ -2,26 +2,36 @@
 //here we catch all notes by using useContext 
 
 import React, { useContext, useEffect, useRef, useState } from 'react'
-
+import {useNavigate} from 'react-router-dom';
 
 import noteContext from "../context/notes/noteContext";
 import AddNote from './AddNote'
 
 import NoteItem from './Noteitem';
-const Notes = () => {
+const Notes = (props) => {
 
   const context = useContext(noteContext);
+  let navigate = useNavigate();
   const { notes, getNotes,editNote } = context;
   //updateNote will run when we click the updateNote icon and out form value will be set as currntnote (hrere currentnote is original note which is passed as prop from noteItem )
+
   const updateNote = (currentNote) => {
     console.log("update");
     //  as it is called from the edit button click it will causes ref button to run modal 
     //here currentNote._id is used as _id is given automatically
     setNote({id:currentNote._id, etitle: currentNote.title, edescription: currentNote.description, etag: currentNote.tag });
     ref.current.click();
+   
   }
   useEffect(() => {
-    getNotes();
+    if(localStorage.getItem('token'))
+    {
+      getNotes();
+
+    }
+    else{
+      navigate("/login");
+    }
     // eslint-disable-next-line
   }, [])
 
@@ -40,6 +50,7 @@ const Notes = () => {
     editNote(note.id,note.etitle,note.edescription,note.etag);
     e.preventDefault();
     refclose.current.click();
+    props.showAlert("note is updated successfully","success");//this message and type is passed to the the app.js
   }
 
   const onChange = (e) => {
@@ -48,7 +59,7 @@ const Notes = () => {
   }
   return (
     <>
-      <AddNote />
+      <AddNote  showAlert = {props.showAlert}/>
       <button ref={ref} type="button" className="btn btn-primary d-none" data-toggle="modal" data-target="#exampleModal">
         Launch demo modal
       </button>
@@ -102,7 +113,7 @@ const Notes = () => {
       <div className='row my-3'>
         {notes.map((note) => {
 
-          return <NoteItem key={note._id} updateNote={updateNote} note={note} />
+          return <NoteItem showAlert={props.showAlert} key={note._id} updateNote={updateNote} note={note} />
         })}
       </div>
     </>
