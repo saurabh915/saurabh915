@@ -69,7 +69,7 @@ text, circles, arrays,pencil and magical pencil.
 Undo/redo actions, real-time canvas rendering.
 ReactJS, JS, CSS. Boost your problem-solving skills!
 Project Link:
-https://github.com/saurabh915/DSADRAW
+https://dsadraw.netlify.app/
 
 4. [Inotepage React APP](https://shortnote.onrender.com/):
 - An app where you can do all CRUED operations on your
