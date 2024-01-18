@@ -88,7 +88,7 @@ https://github.com/saurabh915/workingfinalinotebook
 - ![Certification Image](certification.png) [Certification 1]: [Issuing Authority].
 
 ## Blog and Portfolio
-You can explore more of my work on my  Portfolio Website([Link to GitHub Repo](https://saurabhpatilportfolio.netlify.app/)):
+You can explore more of my work on my  Portfolio Website([Link to Portfolio](https://saurabhpatilportfolio.netlify.app/)):
 
 ## Interests
 
