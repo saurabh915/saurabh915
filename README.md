@@ -89,7 +89,7 @@ https://github.com/saurabh915/workingfinalinotebook
 
 ## Blog and Portfolio
 
-You can explore more of my work on my  [Portfolio]([Link to Portfolio]([https://](https://saurabhpatilportfolio.netlify.app/))).
+You can explore more of my work on my  [Portfolio]([Link to Portfolio]([https://saurabhpatilportfolio.netlify.app/))).
 
 ## Interests
 
