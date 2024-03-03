@@ -1,27 +1,34 @@
-<p align="center">
-  <img src="Saurabh_Patil.jpg" alt="Your Name" width="200">
+<h1 align="center">Hi 👋, I'm Saurabh Sanjay Patil</h1>
+<h3 align="center">I'm MERN stack web developer. I hold a strong academic background, . My passion lies in web development. • In the sphere of web development, I gained hands-on experience during my internship at Progneur Technologies, where I worked with technologies like MongoDB, Express.js, React, Node.js, Material UI, Git, and GitHub. • I've also crafted a diverse range of projects, including games, drawing apps, chat applications, portfolio websites, and open API integrations, showcasing my versatility in developing web applications. • My portfolio website: saurabhpatilportfolio.netlify.app</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh915&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh915" /> </p>
+
+- 🌱 I’m currently learning **Deep Learning**
+
+- 👨‍💻 All of my projects are available at [https://saurabhpatilportfolio.netlify.app](https://saurabhpatilportfolio.netlify.app)
+
+- 💬 Ask me about **Web Development , Data Structures and Algorithms , Computer Science**
+
+- 📫 How to reach me **saurabhspatil4545@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rsLV236T9cjLwT_XvujQMOabGjFnj4j-/view?usp=sharing](https://drive.google.com/file/d/1rsLV236T9cjLwT_XvujQMOabGjFnj4j-/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/saurabh82308448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saurabh82308448" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saurabh patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh patil" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/saurabh_3699" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saurabh_3699" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/living_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="living_code" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/living_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="living_code" height="30" width="40" /></a>
 </p>
 
-# Hello, I'm Saurabh Patil 👋
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-I'm Saurabh Sanjay Patil, hailing from Gadhinglaj. I hold a strong academic background, having completed my HSC and SSC from Gadhinglaj.  My passion lies in the realm of technology, particularly in web development, competitive coding, and AI/ML. In the sphere of web development, I gained hands-on experience during my internship at Progneur Technologies, where I worked with technologies like MongoDB, Express.js, React, Node.js, Material UI, Git, and GitHub. I've also crafted a diverse range of projects, including games, drawing apps, chat applications, portfolio websites, and open
-API integrations, showcasing my versatility in developing web applications. In competitive coding, I've tackled over 250 unique problems across platforms such as GeeksforGeeks, LeetCode, CodeChef, and HackerRank. I've even competed globally, achieving a remarkable 121st rank out of 27,000 participants in a coding contest.I possess a strong command of programming languages, including Python, C, Java, JavaScript, and C. My interests extend to machine learning and deep learning, where I've executed projects like house price prediction and Iris flower classification. I've honed my skills further through Andrew Ng's deep learning course. Additionally, I possess a foundational understanding of IoT and AR/VR technologies.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh915&show_icons=true&locale=en&layout=compact" alt="saurabh915" /></p>
 
-## About Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabh915&show_icons=true&locale=en" alt="saurabh915" /></p>
 
-
-- ![Skills Image](MERN_Stack.webp) Proficient in:  C++, Python, Java,JavaScript , MySQL, MongoDB , HTML/CSS ,ReactJS,Bootstrap, Node.js, Express.js , MaterialUI
-.
-- ![coding Image](coding.png)
-- PROFILE LINKS
-- LEETCODE PROFILE
-- https://leetcode.com/living_code/
-- GEEKFORGEEKS PROFILE
-- https://auth.geeksforgeeks.org/user/living_code
-- CODECHEF PROFILE
-- https://www.codechef.com/users/saurabh_3699
-
-- ![AI-ML Image](AI-ML.png) AI-ML Enthusiast
 
 ## Work Experience
 
@@ -90,14 +97,8 @@ https://github.com/saurabh915/workingfinalinotebook
 ## Blog and Portfolio
 You can explore more of my work on my  Portfolio Website([Link to Portfolio](https://saurabhpatilportfolio.netlify.app/)):
 
-## Interests
 
-Outside of coding, I enjoy [Your Interests and Hobbies].
 
-## Connect with Me
-
-- 📧 Email: [saurabhspatil4545@gmail.com]
-- 💼 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/saurabh-patil-69bb111b5)]
 
 ## GitHub Stats
 
