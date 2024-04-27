@@ -2,7 +2,8 @@
 <h3 align="center">I'm MERN stack web developer. I hold a strong academic background, . My passion lies in web development. • In the sphere of web development, I gained hands-on experience during my internship at Progneur Technologies, where I worked with technologies like MongoDB, Express.js, React, Node.js, Material UI, Git, and GitHub. • I've also crafted a diverse range of projects, including games, drawing apps, chat applications, portfolio websites, and open API integrations, showcasing my versatility in developing web applications. • My portfolio website: saurabhpatilportfolio.netlify.app</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh915&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh915" /> </p>
-
+<p align="right"> <img src="![image](https://github.com/saurabh915/saurabh915/assets/73584405/9f69bf0b-8c9d-4b30-8288-7c66bc0377fd)
+" alt="saurabh915" /> </p>
 - 🌱 I’m currently learning **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://saurabhpatilportfolio.netlify.app](https://saurabhpatilportfolio.netlify.app)
