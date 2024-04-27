@@ -33,18 +33,24 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabh915&show_icons=true&locale=en" alt="saurabh915" /></p>
 
+<hr></hr>
+ <h3>Work Experience</h3>
+<hr></hr>
+Progneur Technologies Jan 2023 - Apr 2023<br/>
+MERN STACK INTERN<br/>
 
-## Work Experience
-
-- Progneur Technologies Jan 2023 - Apr 2023
-- MERN STACK INTERN
 - Utilized Git and GitHub to create repositories and
+
 - manage version control for the project.
+  
 - Front-end: ReactJs, CSS , Bootstrap , Material UI
+  
 - Back-end: NodeJs , MongoDB, RESTful APIs
-- Worked on Project Management and Learning
-- Management Applications Module.
+  
+- Worked on Project Management and Learning Management Applications Module.
+  
 - Managed and Integrated project APIs using Redux
+  
 - Toolkit and Redux Thunk.
 
 
