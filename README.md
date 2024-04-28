@@ -34,11 +34,15 @@
 
 | Programming Languages | Web Development | Databases | AI/ML | Version Control | Hosting |
 |------------------------|-----------------|-----------|-------|-----------------|---------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> <br/> [C](https://www.cprogramming.com/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> <br/> [HTML5](https://www.w3.org/html/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> <br/> [MongoDB](https://www.mongodb.com/) | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> <br/> [TensorFlow](https://www.tensorflow.org) | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> <br/> [Git](https://git-scm.com/) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> <br/> [C++](https://www.w3schools.com/cpp/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> <br/> [CSS3](https://www.w3schools.com/css/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> <br/> [MySQL](https://www.mysql.com/) | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/> <br/> [Scikit-Learn](https://scikit-learn.org/) | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/> <br/> [GitHub](https://github.com) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <br/> [Java](https://www.java.com) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> <br/> [React](https://reactjs.org/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/> <br/> [Firebase](https://firebase.google.com/) | <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> <br/> [Pandas](https://pandas.pydata.org/) |   | <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/> <br/> [Heroku](https://heroku.com) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <br/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> <br/> [Express](https://expressjs.com) |   | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> <br/> [Seaborn](https://seaborn.pydata.org/) |   | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40"/> <br/> [Netlify](https://www.netlify.com/) |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <br/> [Python](https://www.python.org) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> <br/> [Node.js](https://nodejs.org) |   |   |   |   |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> <br/> [C](https://www.cprogramming.com/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> <br/> [React](https://reactjs.org/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> <br/> [MySQL](https://www.mysql.com/) | <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> <br/> [Pandas](https://pandas.pydata.org/) | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> <br/> [Git](https://git-scm.com/) | <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/> <br/> [Heroku](https://heroku.com) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> <br/> [C++](https://www.w3schools.com/cpp/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> <br/> [Node.js](https://nodejs.org) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> <br/> [MongoDB](https://www.mongodb.com/) | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/> <br/> [Scikit-Learn](https://scikit-learn.org/) | <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/> <br/> [GitHub](https://github.com) | <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40"/> <br/> [Netlify](https://www.netlify.com/) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <br/> [Java](https://www.java.com) | <img src="https://material-ui.com/static/logo.png" alt="Material-UI" width="40" height="40"/> <br/> [Material-UI](https://material-ui.com/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/> <br/> [Firebase](https://firebase.google.com/) | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> <br/> [Seaborn](https://seaborn.pydata.org/) |   |   |
+|   | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40"/> <br/> [Bootstrap](https://getbootstrap.com/) |   |   |   |   |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <br/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |   |   | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> <br/> [TensorFlow](https://www.tensorflow.org) |   |   |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <br/> [Python](https://www.python.org) |   |   |   |   |   |
+
+
+
 
 <hr/>
 
@@ -79,7 +83,7 @@ MERN STACK INTERN<br/>
 ## Projects
 
 Here are a few projects I'm proud of:
-
+ <hr/>
 1. Portfolio Website([Link to GitHub Repo](https://github.com/saurabh915/MyPortfolio)):
    <hr/>
    <img src = "https://saurabhpatilportfolio.netlify.app/static/media/portfolio.8e309121729606271d1c.png"/>
@@ -90,8 +94,9 @@ Here are a few projects I'm proud of:
    for contact form
    Project Link:
    https://saurabhpatilportfolio.netlify.app/
-2. WhatsApp Clone([Link to GitHub Repo](https://github.com/saurabh915/complete_whatsapp_clone.git) ):
 <hr/>
+2. WhatsApp Clone([Link to GitHub Repo](https://github.com/saurabh915/complete_whatsapp_clone.git) ):
+ <hr/>
 <img src = "https://saurabhpatilportfolio.netlify.app/static/media/WhatsappClone.0c2022791c3ee5d097a9.png"/>
 <hr/>
 - An impressive web application combining ReactJS,
@@ -101,8 +106,11 @@ Utilizing Socket.IO for real-time chatting, users can
 seamlessly communicate, share files, images, and view
 online/offline status and profile details.
 
-
+  <hr/>
 3. [Canvas drawing App](https://dsadraw.netlify.app/):
+ <hr/>
+   <img src = "https://saurabhpatilportfolio.netlify.app/static/media/drawing.7292dbc6b446b818dbe7.png" />
+   <hr/>
 - Data Structures problem-solving web app! Visualize
 DSA concepts with drawing tools: rectangles, lines,
 text, circles, arrays,pencil and magical pencil.
