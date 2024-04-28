@@ -118,8 +118,11 @@ Undo/redo actions, real-time canvas rendering.
 ReactJS, JS, CSS. Boost your problem-solving skills!
 Project Link:
 https://dsadraw.netlify.app/
-
+  <hr/>
 4. [Inotepage React APP](https://shortnote.onrender.com/):
+    <hr/>
+   <img src = "https://saurabhpatilportfolio.netlify.app/static/media/notepage.3e7e0751f2757423408a.png" />
+   <hr/>
 - An app where you can do all CRUED operations on your
 notes and you also can do signup or login. Build with
 MERN technology and deployed on onrender platform.
